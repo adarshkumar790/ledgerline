@@ -28,7 +28,7 @@ const About = () => (
                 variants={ fadeIn('up', 'tween', 0.2, 1) }
                 className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-ChineseSilver"
             >
-                <span className="font-extrabold text-white">Devbhoomi Software </span> 
+                <span className="font-extrabold text-white">Blockchain Company</span> 
                 
                 was founded in 2022 with the blessings of Gita Press & Sanatan Developers , with the aim to help the current and future generations connect with the rich Hindu cultural heritage. In the world full of  
                 

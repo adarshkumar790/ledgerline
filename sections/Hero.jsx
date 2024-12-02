@@ -17,13 +17,13 @@ const Hero = () => (
           <motion.h1
             variants={ textVariant(1.1) }
             className={ styles.heroHeading }>
-            dharmik
+            Blockchain
           </motion.h1>
           <motion.div
             variants={ textVariant(1.2) }
             className="flex justify-center items-center">
             <h1 className="flex items-center">
-              <span className={ styles.heroHeading }>experiences</span>
+              <span className={ styles.heroHeading }>Company</span>
               
             </h1>
           </motion.div>
@@ -33,7 +33,7 @@ const Hero = () => (
           variants={ slideIn('right', 'tween', 0.2, 1) }
           className="relative w-full md:-mt-[20px] -mt-[12px]">
               <img 
-                src="assets/ayodh.jpeg"
+                src="assets/blochain.jpg"
                 className="w-full sm:h-[500px] h-[350px] -mt-[30px] object-cover rounded-tl-[140px] z-0 relative"
                 alt="A fantasy image of planets, comets and stars"
               />

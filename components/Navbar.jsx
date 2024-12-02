@@ -21,7 +21,7 @@ const Navbar = () => (
                 width={24}
                 height={24}
             />
-            <h2 className="font-extrabold text-[24px] leading-[30px] text-white uppercase">devbhoomi software</h2>
+            <h2 className="font-extrabold text-[24px] leading-[30px] text-white uppercase">LedgerLine</h2>
             <img
                 src="assets/menu.svg"
                 alt="hamburger menu icon"
