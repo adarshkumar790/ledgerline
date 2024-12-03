@@ -51,7 +51,7 @@ const Hero = () => (
                       duration: 20
                     }}
                     src="assets/stamp.png"
-                    alt="A circular image with the words 'explore and enter the metaverse' around the edge and a mouse icon in the middle"
+                    alt="A circular image with the words 'explore and enter the ledgerline' around the edge and a mouse icon in the middle"
                     className="sm:w-[155px] w-[100px] sm:h-[155px] h-[155px] circular-CTA object-contain"
                   />
                 </motion.div>
